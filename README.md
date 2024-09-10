@@ -3,7 +3,7 @@
 
 ## Azure Services Overview for Beginners
 
-![Azure Services Diagram](UploadedImage1.jpg)
+![Azure Services Diagram](https://github.com/rohitchdy/Azure-Service-Overview-and-Azure-Cloud-Service/blob/main/Private%20Network%20Server%20Configuration.png)
 
 This image is a schematic representation of an Azure Services Overview, specifically designed for beginners. It outlines various components and services offered by Azure that work together to deliver web content and applications. The diagram is divided into two main sections: Private Network and Public Network.
 
